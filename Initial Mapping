@@ -1,0 +1,325 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Crafts",
+      "id": 1,
+      "attr": {
+        "style": {
+          "width": 123,
+          "background": "#FFFF99",
+          "fontMultiplier": 1.75
+        },
+        "position": [
+          -986,
+          -453.5999984741211,
+          1
+        ]
+      },
+      "ideas": {
+        "10": {
+          "title": "Google:\nexercise skill in making (an object), typically by hand.",
+          "id": "38.ba99.32298adbd-560d.855bd7123",
+          "attr": {
+            "style": {
+              "textAlign": "left",
+              "background": "#FFFFFF"
+            },
+            "position": [
+              99,
+              -165.4000015258789,
+              9
+            ]
+          }
+        },
+        "-10": {
+          "title": "Traditional Crafts",
+          "id": "7.30cb.f9da3b227-8ea1.5c3fad32a",
+          "attr": {
+            "position": [
+              353,
+              144,
+              8
+            ]
+          }
+        },
+        "-5": {
+          "title": "Digital Crafts",
+          "id": "5.30cb.f9da3b227-8ea1.5c3fad32a",
+          "attr": {
+            "style": {
+              "background": "#FFCC99"
+            },
+            "position": [
+              221,
+              -166,
+              6
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Digital Art",
+              "id": "10.30cb.f9da3b227-8ea1.5c3fad32a",
+              "attr": {
+                "position": [
+                  26,
+                  -101,
+                  5
+                ]
+              }
+            },
+            "2": {
+              "title": "Maker movements",
+              "id": "16.30cb.f9da3b227-8ea1.5c3fad32a"
+            }
+          }
+        },
+        "-7.5": {
+          "title": "DIY Culture",
+          "id": "33.8302.4f19b5564-3250.020c9c577",
+          "attr": {
+            "position": [
+              354,
+              -44,
+              7
+            ]
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Technology",
+      "id": "17.30cb.f9da3b227-8ea1.5c3fad32a",
+      "attr": {
+        "position": [
+          -205,
+          -230,
+          1
+        ],
+        "style": {
+          "background": "#CCFFFF",
+          "fontMultiplier": 1.5
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Artificial Intelligence",
+          "id": "9.30cb.f9da3b227-8ea1.5c3fad32a",
+          "attr": {
+            "style": {
+              "background": "#00FFFF"
+            },
+            "position": [
+              160.5555419921875,
+              -69,
+              3
+            ]
+          },
+          "ideas": {
+            "-10": {
+              "title": "mundane tasks",
+              "id": "14.30cb.f9da3b227-8ea1.5c3fad32a",
+              "attr": {
+                "position": [
+                  102,
+                  60,
+                  1
+                ]
+              }
+            },
+            "-5": {
+              "title": "Learning",
+              "id": "12.30cb.f9da3b227-8ea1.5c3fad32a",
+              "attr": {
+                "position": [
+                  135,
+                  -56,
+                  2
+                ]
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "Media Archaeology",
+          "id": "20.30cb.f9da3b227-8ea1.5c3fad32a",
+          "attr": {
+            "position": [
+              72,
+              90,
+              2
+            ]
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "Industrialisation",
+      "id": "21.30cb.f9da3b227-8ea1.5c3fad32a",
+      "attr": {
+        "position": [
+          -556,
+          -188,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 1.75,
+          "background": "#FF99CC"
+        }
+      },
+      "ideas": {
+        "-10": {
+          "title": "Arts and Crafts Movement",
+          "id": "22.30cb.f9da3b227-8ea1.5c3fad32a",
+          "attr": {
+            "position": [
+              268.3999996185303,
+              189,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "William Morris",
+              "id": "24.30cb.f9da3b227-8ea1.5c3fad32a"
+            },
+            "2": {
+              "title": "MK Gandhi",
+              "id": "25.30cb.f9da3b227-8ea1.5c3fad32a"
+            }
+          }
+        },
+        "-20": {
+          "title": "Bauhaus",
+          "id": "26.30cb.f9da3b227-8ea1.5c3fad32a",
+          "attr": {
+            "position": [
+              173.22222137451172,
+              305.1111145019531,
+              2
+            ],
+            "style": {
+              "width": 69.1806
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Eames",
+              "id": "28.30cb.f9da3b227-8ea1.5c3fad32a",
+              "ideas": {
+                "1": {
+                  "title": "Lota",
+                  "id": "30.30cb.f9da3b227-8ea1.5c3fad32a",
+                  "attr": {
+                    "style": {
+                      "width": 120.667,
+                      "background": "#CCFFFF"
+                    },
+                    "position": [
+                      233,
+                      52,
+                      1
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "width": 66.8056
+                },
+                "position": [
+                  209,
+                  28.444442749023438,
+                  1
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "title": "Market",
+      "id": "31.8302.4f19b5564-3250.020c9c577",
+      "attr": {
+        "position": [
+          -327,
+          -681,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 2,
+          "background": "#00CCFF"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "",
+          "id": "32.8302.4f19b5564-3250.020c9c577"
+        }
+      }
+    },
+    "6": {
+      "title": "Designer",
+      "id": "35.8302.4f19b5564-3250.020c9c577",
+      "attr": {
+        "position": [
+          -282,
+          80,
+          1
+        ]
+      }
+    },
+    "7": {
+      "title": "Artisan",
+      "id": "36.8302.4f19b5564-3250.020c9c577",
+      "attr": {
+        "position": [
+          -176,
+          80,
+          1
+        ]
+      },
+      "ideas": {}
+    }
+  },
+  "title": "",
+  "links": [
+    {
+      "ideaIdFrom": 1,
+      "ideaIdTo": "21.30cb.f9da3b227-8ea1.5c3fad32a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to",
+          "label": "craft gets replaced by mass manufacturing"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "17.30cb.f9da3b227-8ea1.5c3fad32a",
+      "ideaIdTo": "21.30cb.f9da3b227-8ea1.5c3fad32a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from",
+          "label": "Technology becomes an industrial produce"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "33.8302.4f19b5564-3250.020c9c577",
+      "ideaIdTo": "16.30cb.f9da3b227-8ea1.5c3fad32a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "dashed",
+          "arrow": "to"
+        }
+      }
+    }
+  ]
+}

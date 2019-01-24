@@ -1,0 +1,235 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Inquiries",
+      "id": 1,
+      "attr": {
+        "position": [
+          -71,
+          -18.800003051757812,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 3
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Practices",
+          "id": "2.d7f6.4bd9ed167-5156.e0c9e89f6",
+          "ideas": {
+            "1": {
+              "title": "Process",
+              "id": "5.d7f6.4bd9ed167-5156.e0c9e89f6",
+              "ideas": {
+                "1": {
+                  "title": "Tools",
+                  "id": "13.d7f6.4bd9ed167-5156.e0c9e89f6"
+                },
+                "2": {
+                  "title": "Inspiration",
+                  "id": "14.d7f6.4bd9ed167-5156.e0c9e89f6",
+                  "ideas": {
+                    "1": {
+                      "title": "symbolism",
+                      "id": "17.d7f6.4bd9ed167-5156.e0c9e89f6"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Workflow",
+                  "id": "15.d7f6.4bd9ed167-5156.e0c9e89f6",
+                  "ideas": {}
+                },
+                "4": {
+                  "title": "Materiality",
+                  "id": "16.d7f6.4bd9ed167-5156.e0c9e89f6"
+                }
+              },
+              "attr": {
+                "style": {
+                  "fontMultiplier": 1.5
+                }
+              }
+            },
+            "2": {
+              "title": "Purpose",
+              "id": "7.d7f6.4bd9ed167-5156.e0c9e89f6",
+              "attr": {
+                "position": [
+                  233.19999998807907,
+                  143.4000027179718,
+                  1
+                ],
+                "style": {
+                  "fontMultiplier": 1.25
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Market",
+                  "id": "19.d7f6.4bd9ed167-5156.e0c9e89f6",
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "User/Need",
+                  "id": "21.d7f6.4bd9ed167-5156.e0c9e89f6"
+                },
+                "3": {
+                  "title": "Story",
+                  "id": "24.d7f6.4bd9ed167-5156.e0c9e89f6"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              206.80000001192093,
+              -28.399999618530273,
+              5
+            ],
+            "style": {
+              "fontMultiplier": 1.75
+            }
+          }
+        },
+        "11": {
+          "title": "Future",
+          "id": "25.d7f6.4bd9ed167-5156.e0c9e89f6",
+          "attr": {
+            "position": [
+              28,
+              209.8000030517578,
+              7
+            ],
+            "style": {
+              "fontMultiplier": 2
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Design Ficition",
+              "id": "26.d7f6.4bd9ed167-5156.e0c9e89f6",
+              "attr": {
+                "position": [
+                  -9,
+                  47,
+                  1
+                ]
+              }
+            },
+            "2": {
+              "title": "Documentation",
+              "id": "41.d7f6.4bd9ed167-5156.e0c9e89f6"
+            }
+          }
+        },
+        "-1": {
+          "title": "Frameworks",
+          "id": "4.d7f6.4bd9ed167-5156.e0c9e89f6",
+          "ideas": {
+            "2": {
+              "title": "Craft Thinking/Process",
+              "id": "31.d7f6.4bd9ed167-5156.e0c9e89f6",
+              "attr": {
+                "position": [
+                  123.20000076293945,
+                  -63,
+                  2
+                ],
+                "style": {
+                  "fontMultiplier": 1.25
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Design",
+                  "id": "32.d7f6.4bd9ed167-5156.e0c9e89f6",
+                  "attr": {
+                    "position": [
+                      240,
+                      64,
+                      1
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "Technology",
+                  "id": "33.d7f6.4bd9ed167-5156.e0c9e89f6"
+                },
+                "3": {
+                  "title": "Social life",
+                  "id": "35.d7f6.4bd9ed167-5156.e0c9e89f6"
+                }
+              }
+            },
+            "12": {
+              "title": "Power Structures",
+              "id": "30.d7f6.4bd9ed167-5156.e0c9e89f6",
+              "attr": {
+                "position": [
+                  73.20000076293945,
+                  245,
+                  3
+                ],
+                "style": {
+                  "fontMultiplier": 1.25
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Market",
+                  "id": "36.d7f6.4bd9ed167-5156.e0c9e89f6"
+                },
+                "2": {
+                  "title": "City",
+                  "id": "37.d7f6.4bd9ed167-5156.e0c9e89f6",
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Internet",
+                  "id": "39.d7f6.4bd9ed167-5156.e0c9e89f6"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              217.79999923706055,
+              -6,
+              6
+            ],
+            "style": {
+              "fontMultiplier": 1.75
+            }
+          }
+        },
+        "-0.5": {
+          "title": "Design Discourse",
+          "id": "28.d7f6.4bd9ed167-5156.e0c9e89f6",
+          "attr": {
+            "position": [
+              38.19999998807907,
+              -230.39999961853027,
+              3
+            ],
+            "style": {
+              "fontMultiplier": 1.75
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Analysis of Eames Report",
+              "id": "29.d7f6.4bd9ed167-5156.e0c9e89f6",
+              "attr": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "",
+  "links": []
+}
