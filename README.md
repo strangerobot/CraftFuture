@@ -1,5 +1,4 @@
 # Craft Future
-![Logo](/Blog/Assets/instagram/profile Pic.jpg)
 An ongoing documentation of my graduation thesis: Craft Future, an inquiry into how future can inform craft and how craft can inform futures.
 
 ## Scope
