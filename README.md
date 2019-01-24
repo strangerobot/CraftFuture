@@ -24,9 +24,9 @@ Updates and announcements would come here
 # Links
 
 You can follow the project with regular updates and writing on Instagram,Medium and Project Website.
-[Instagram](https://www.instagram.com/craftfuture/)
-[Medium](http://medium.com/crafted-futures/)
-[Website](http://strangerobot.design/craftfuture)
+### [Instagram](https://www.instagram.com/craftfuture/)
+### [Medium](http://medium.com/crafted-futures/)
+### [Website](http://strangerobot.design/craftfuture)
 
 The project is guided and supported by The Busride Labs in Goa.
-[Busride Labs](https://www.facebook.com/TheBusrideLab/)
+## [Busride Labs](https://www.facebook.com/TheBusrideLab/)
